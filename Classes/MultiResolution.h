@@ -11,7 +11,7 @@
 
 #include "cocos2d.h"
 
-static cocos2d::Size designResolutionSize = cocos2d::Size(180, 320);
+static cocos2d::Size designResolutionSize = cocos2d::Size(160, 284);
 
 
 static cocos2d::Vec2 visibleCenter = cocos2d::Vec2(designResolutionSize.width/2,

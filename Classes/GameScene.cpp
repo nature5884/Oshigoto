@@ -48,5 +48,5 @@ bool GameScene::init()
 
 void GameScene::update(float delta)
 {
-    
+
 }
